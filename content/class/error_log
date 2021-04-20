@@ -1,0 +1,118 @@
+[05-Oct-2018 01:06:29 America/Sao_Paulo] PHP Fatal error:  Call to undefined function pre() in /home/ecommerce/loja/content/class/login.php on line 4
+[05-Oct-2018 11:20:19 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 11:20:19 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 11:20:19 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 40
+[05-Oct-2018 11:20:27 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 11:20:27 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 11:20:27 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 40
+[08-Oct-2018 11:20:21 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 23
+[08-Oct-2018 11:20:41 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 23
+[08-Oct-2018 11:20:47 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 23
+[08-Oct-2018 11:20:57 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 23
+[08-Oct-2018 11:22:58 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/home/ecommerce/loja/painel/uploads/produtos_imagens/prod011.jpg): failed to open stream: No such file or directory in /home/ecommerce/loja/painel/config/classUploadSimple.php on line 62
+[08-Oct-2018 11:22:58 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZJcIEb' to '/home/ecommerce/loja/painel/uploads/produtos_imagens/prod011.jpg' in /home/ecommerce/loja/painel/config/classUploadSimple.php on line 62
+[08-Oct-2018 11:32:38 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/home/ecommerce/loja/painel/uploads/produtos_imagens/Assinatura-de-E-mail56.png): failed to open stream: No such file or directory in /home/ecommerce/loja/painel/config/classUploadSimple.php on line 62
+[08-Oct-2018 11:32:38 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBcRqsp' to '/home/ecommerce/loja/painel/uploads/produtos_imagens/Assinatura-de-E-mail56.png' in /home/ecommerce/loja/painel/config/classUploadSimple.php on line 62
+[08-Oct-2018 11:43:02 America/Sao_Paulo] PHP Notice:  Undefined index: nome_sub_categoria in /home/ecommerce/loja/painel/content/class/categorias_sub_cadastro.php on line 14
+[08-Oct-2018 14:34:49 America/Sao_Paulo] PHP Notice:  Undefined index: nome_sub_categoria in /home/ecommerce/loja/painel/content/class/categorias_sub_cadastro.php on line 14
+[08-Oct-2018 14:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 23
+[08-Oct-2018 14:58:32 America/Sao_Paulo] PHP Notice:  Undefined index: nome_sub_categoria in /home/ecommerce/loja/painel/content/class/categorias_sub_cadastro.php on line 14
+[17-Oct-2018 11:09:25 America/Sao_Paulo] PHP Notice:  Undefined index: modalidade in /home/ecommerce/loja/painel/content/class/setup_frete.php on line 18
+[17-Oct-2018 11:09:25 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/ecommerce/loja/painel/content/class/setup_frete.php on line 18
+[17-Oct-2018 11:14:16 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:14:16 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:14:16 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:14:16 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:14:16 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:14:16 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:15:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:11 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:25 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:17:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:07 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:07 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:20:08 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/ecommerce/loja/painel/content/class/categorias_cadastro.php on line 86
+[17-Oct-2018 11:41:58 America/Sao_Paulo] PHP Notice:  Undefined index: sac_telefone in /home/ecommerce/loja/painel/content/class/setup_cadastro.php on line 51
+[17-Oct-2018 11:41:58 America/Sao_Paulo] PHP Notice:  Undefined index: sac_mensagem in /home/ecommerce/loja/painel/content/class/setup_cadastro.php on line 51
+[17-Oct-2018 11:41:58 America/Sao_Paulo] PHP Notice:  Undefined index: sac_email in /home/ecommerce/loja/painel/content/class/setup_cadastro.php on line 51
+[17-Oct-2018 11:50:00 America/Sao_Paulo] PHP Notice:  Undefined index: sac_telefone in /home/ecommerce/loja/painel/content/class/setup_cadastro.php on line 51
+[17-Oct-2018 11:50:00 America/Sao_Paulo] PHP Notice:  Undefined index: sac_mensagem in /home/ecommerce/loja/painel/content/class/setup_cadastro.php on line 51
+[17-Oct-2018 11:50:00 America/Sao_Paulo] PHP Notice:  Undefined index: sac_email in /home/ecommerce/loja/painel/content/class/setup_cadastro.php on line 51
+[23-Oct-2018 00:40:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method MontaEmail::statusPedido() in /home/ecommerce/loja/painel/content/class/pedidos_status_edita.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/ecommerce/loja/painel/content/class/pedidos_status_edita.php on line 65
+[23-Oct-2020 00:08:06 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/produtos_imagens/WhatsApp-Image-2020-10-08-at-1627.jpeg): failed to open stream: No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/classUploadSimple.php on line 56
+[23-Oct-2020 00:08:06 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbuAkpR' to '/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/produtos_imagens/WhatsApp-Image-2020-10-08-at-1627.jpeg' in /home3/wieder14/loja.wiedercastro.com/painel/config/classUploadSimple.php on line 56
+[23-Oct-2020 00:09:15 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/produtos_imagens/img128.jpeg): failed to open stream: No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/classUploadSimple.php on line 56
+[23-Oct-2020 00:09:15 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplJFM0F' to '/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/produtos_imagens/img128.jpeg' in /home3/wieder14/loja.wiedercastro.com/painel/config/classUploadSimple.php on line 56
+[23-Oct-2020 00:17:52 America/Sao_Paulo] PHP Warning:  move_uploaded_file(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/produtos_imagens/img129.jpeg): failed to open stream: No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/classUploadSimple.php on line 56
+[23-Oct-2020 00:17:52 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpApFkpY' to '/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/produtos_imagens/img129.jpeg' in /home3/wieder14/loja.wiedercastro.com/painel/config/classUploadSimple.php on line 56
+[29-Oct-2020 20:09:25 America/Fortaleza] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Oct-2020 20:09:29 America/Fortaleza] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2020 15:03:31 America/Fortaleza] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2020 15:03:34 America/Fortaleza] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2020 20:33:29 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home3/wieder14/loja.wiedercastro.com/painel/content/class/categorias_cadastro.php on line 117
+[09-Dec-2020 20:33:29 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wieder14/loja.wiedercastro.com/painel/content/class/categorias_cadastro.php:117) in /home3/wieder14/loja.wiedercastro.com/painel/content/class/categorias_cadastro.php on line 137
+[19-Dec-2020 01:38:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Dec-2020 01:38:20 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Dec-2020 01:38:20 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 103
+[19-Dec-2020 01:38:20 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on null in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 104
+[19-Dec-2020 01:38:20 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Dec-2020 01:38:20 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Dec-2020 01:38:20 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 103
+[19-Dec-2020 01:38:20 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on null in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 104
+[19-Dec-2020 01:38:30 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Dec-2020 01:38:30 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Dec-2020 01:38:30 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 103
+[19-Dec-2020 01:38:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on null in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 104
+[19-Dec-2020 01:38:30 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Dec-2020 01:38:30 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Dec-2020 01:38:30 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 103
+[19-Dec-2020 01:38:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on null in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 104
+[19-Dec-2020 01:38:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Dec-2020 01:38:40 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Dec-2020 01:38:40 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 103
+[19-Dec-2020 01:38:40 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on null in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 104
+[19-Dec-2020 01:38:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Dec-2020 01:38:40 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Dec-2020 01:38:40 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 103
+[19-Dec-2020 01:38:40 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on null in /home3/wieder14/loja.wiedercastro.com/painel/config/start.php on line 104
+[02-Feb-2021 23:03:58 America/Fortaleza] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Apr-2021 10:26:21 America/Sao_Paulo] PHP Notice:  Undefined variable: descricao in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/clientes_cadastro.php on line 43
+[19-Apr-2021 10:26:21 America/Sao_Paulo] PHP Notice:  Undefined index: salvar in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/clientes_cadastro.php on line 54
+[19-Apr-2021 10:26:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/clientes_cadastro.php:43) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/clientes_cadastro.php on line 57
+[19-Apr-2021 10:50:58 America/Sao_Paulo] PHP Notice:  Undefined index: id_tarefa in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/clientes_edita.php on line 10
+[19-Apr-2021 10:50:58 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/clientes_edita.php:10) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/clientes_edita.php on line 47
+[19-Apr-2021 15:03:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/login.php on line 36
+[19-Apr-2021 15:03:34 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/login.php on line 36
+[19-Apr-2021 15:04:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/login.php on line 44
+[19-Apr-2021 15:04:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/login.php on line 44
+[19-Apr-2021 15:05:38 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/login.php on line 52
