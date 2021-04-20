@@ -1,0 +1,1075 @@
+[04-Oct-2018 11:03:44 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:44 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:44 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:44 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:44 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:46 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:48 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:03:51 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:03:51 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:03:51 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:03:51 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:03:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:05:01 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:01 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:01 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:01 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:01 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 11:05:02 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:02 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:02 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:02 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:02 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:06 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 22
+[04-Oct-2018 11:05:06 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 11:05:06 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 27
+[04-Oct-2018 11:05:06 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:06 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 57
+[04-Oct-2018 11:05:55 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecommerce/loja/config/start.php:82) in /home/ecommerce/loja/config/start.php on line 8
+[04-Oct-2018 11:05:55 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 23
+[04-Oct-2018 11:05:55 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 25
+[04-Oct-2018 11:05:55 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 28
+[04-Oct-2018 11:05:55 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:05:55 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 58
+[04-Oct-2018 11:06:13 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecommerce/loja/config/start.php:82) in /home/ecommerce/loja/config/start.php on line 8
+[04-Oct-2018 11:06:13 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 23
+[04-Oct-2018 11:06:13 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 25
+[04-Oct-2018 11:06:13 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 28
+[04-Oct-2018 11:06:13 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:06:13 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 58
+[04-Oct-2018 11:06:15 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecommerce/loja/config/start.php:82) in /home/ecommerce/loja/config/start.php on line 8
+[04-Oct-2018 11:06:15 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/loja.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 23
+[04-Oct-2018 11:06:15 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 25
+[04-Oct-2018 11:06:15 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 28
+[04-Oct-2018 11:06:15 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 11:06:15 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 58
+[04-Oct-2018 12:56:41 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/namaste.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 19
+[04-Oct-2018 12:56:41 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 21
+[04-Oct-2018 12:56:41 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[04-Oct-2018 12:56:41 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 12:56:41 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[04-Oct-2018 12:56:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 14:31:28 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:31:50 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:31:58 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:32:08 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:32:15 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:40:13 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:41:18 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:41:18 America/Sao_Paulo] PHP Notice:  Undefined variable: dados in /home/ecommerce/loja/index.php on line 22
+[04-Oct-2018 14:41:18 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:41:18 America/Sao_Paulo] PHP Notice:  Undefined variable: dados in /home/ecommerce/loja/index.php on line 22
+[04-Oct-2018 14:41:35 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:41:35 America/Sao_Paulo] PHP Notice:  Undefined variable: dados in /home/ecommerce/loja/index.php on line 22
+[04-Oct-2018 14:41:41 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 14:41:41 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 17
+[04-Oct-2018 15:13:37 America/Sao_Paulo] PHP Fatal error:  Can't use method return value in write context in /home/ecommerce/loja/content/produtos_edita.php on line 351
+[04-Oct-2018 15:13:37 America/Sao_Paulo] PHP Fatal error:  Can't use method return value in write context in /home/ecommerce/loja/content/produtos_edita.php on line 351
+[04-Oct-2018 15:13:55 America/Sao_Paulo] PHP Fatal error:  Can't use method return value in write context in /home/ecommerce/loja/content/produtos_edita.php on line 351
+[04-Oct-2018 17:10:21 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 17:10:21 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 17
+[04-Oct-2018 17:10:22 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 17:10:22 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 17
+[04-Oct-2018 23:24:07 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 23:24:07 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 17
+[04-Oct-2018 23:24:07 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 23:24:07 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 17
+[04-Oct-2018 23:25:46 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 10
+[04-Oct-2018 23:25:46 America/Sao_Paulo] PHP Notice:  Undefined index: get in /home/ecommerce/loja/index.php on line 17
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 40
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ecommerce/loja/content/home.php on line 56
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/ecommerce/loja/content/home.php on line 57
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 40
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ecommerce/loja/content/home.php on line 56
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/ecommerce/loja/content/home.php on line 57
+[04-Oct-2018 23:33:07 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 23:33:10 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[04-Oct-2018 23:33:16 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 00:26:33 America/Sao_Paulo] PHP Fatal error:  Call to undefined function pre() in /home/ecommerce/loja/index.php on line 3
+[05-Oct-2018 00:27:22 America/Sao_Paulo] PHP Fatal error:  Call to undefined function pre() in /home/ecommerce/loja/index.php on line 3
+[05-Oct-2018 01:08:09 America/Sao_Paulo] PHP Fatal error:  Can't use method return value in write context in /home/ecommerce/loja/content/produtos_edita.php on line 351
+[05-Oct-2018 01:08:10 America/Sao_Paulo] PHP Fatal error:  Can't use method return value in write context in /home/ecommerce/loja/content/produtos_edita.php on line 351
+[05-Oct-2018 01:12:17 America/Sao_Paulo] PHP Fatal error:  Can't use method return value in write context in /home/ecommerce/loja/content/produtos_edita.php on line 351
+[05-Oct-2018 01:12:18 America/Sao_Paulo] PHP Fatal error:  Can't use method return value in write context in /home/ecommerce/loja/content/produtos_edita.php on line 351
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/namaste.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 19
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 21
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/namaste.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 19
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 21
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 01:14:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/namaste.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 19
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 21
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 01:14:36 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/namaste.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 19
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 21
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 01:14:37 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Warning:  fopen(/home/ecommerce/loja/private/users/namaste.ecommercenet.com.br.txt): failed to open stream: No such file or directory in /home/ecommerce/loja/config/start.php on line 19
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 21
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ecommerce/loja/config/start.php on line 24
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 01:14:55 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 09:31:11 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:31:11 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:31:11 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:31:11 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:31:18 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:31:18 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:31:24 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:31:24 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:34:41 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:34:41 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:34:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:34:47 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:42:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 09:42:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 09:42:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 09:42:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:42:58 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:42:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 09:42:59 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 09:42:59 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 09:42:59 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 09:42:59 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:42:59 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:42:59 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 09:43:00 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 32
+[05-Oct-2018 09:43:00 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 35
+[05-Oct-2018 09:43:00 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home/ecommerce/loja/config/start.php on line 36
+[05-Oct-2018 09:43:00 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:43:00 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:43:00 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home/ecommerce/loja/config/start.php on line 54
+[05-Oct-2018 09:51:39 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:51:39 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 09:51:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 09:51:40 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 10:58:41 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 10:58:41 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 10:58:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 10:58:42 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 11:00:31 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 11:00:31 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 11:19:16 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 11:19:16 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 11:19:23 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 11:19:23 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[05-Oct-2018 11:20:20 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/ecommerce/loja/config/start.php on line 37
+[05-Oct-2018 11:20:20 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecommerc_constru'@'localhost' (using password: YES) in /home/ecommerce/loja/config/dataBase.php on line 17
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 112
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 114
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 116
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 118
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 112
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 114
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 116
+[11-Oct-2018 09:14:46 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pagamento in /home/ecommerce/loja/painel/content/pedidos.php on line 118
+[15-Oct-2018 08:38:12 America/Sao_Paulo] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ecommerce/loja/painel/content/clientes_edita.php on line 299
+[15-Oct-2018 08:41:16 America/Sao_Paulo] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/ecommerce/loja/painel/uploads/paginas/): failed to open dir: No such file or directory in /home/ecommerce/loja/painel/content/paginas_cadastro.php:139
+Stack trace:
+#0 /home/ecommerce/loja/painel/content/paginas_cadastro.php(139): DirectoryIterator->__construct('/home/ecommerce...')
+#1 /home/ecommerce/loja/painel/index.php(24): require('/home/ecommerce...')
+#2 {main}
+  thrown in /home/ecommerce/loja/painel/content/paginas_cadastro.php on line 139
+[17-Oct-2018 11:10:10 America/Sao_Paulo] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/ecommerce/loja/painel/uploads/paginas/): failed to open dir: No such file or directory in /home/ecommerce/loja/painel/content/paginas_cadastro.php:139
+Stack trace:
+#0 /home/ecommerce/loja/painel/content/paginas_cadastro.php(139): DirectoryIterator->__construct('/home/ecommerce...')
+#1 /home/ecommerce/loja/painel/index.php(24): require('/home/ecommerce...')
+#2 {main}
+  thrown in /home/ecommerce/loja/painel/content/paginas_cadastro.php on line 139
+[17-Oct-2018 11:10:52 America/Sao_Paulo] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/ecommerce/loja/painel/uploads/paginas/): failed to open dir: No such file or directory in /home/ecommerce/loja/painel/content/paginas_cadastro.php:139
+Stack trace:
+#0 /home/ecommerce/loja/painel/content/paginas_cadastro.php(139): DirectoryIterator->__construct('/home/ecommerce...')
+#1 /home/ecommerce/loja/painel/index.php(24): require('/home/ecommerce...')
+#2 {main}
+  thrown in /home/ecommerce/loja/painel/content/paginas_cadastro.php on line 139
+[17-Oct-2018 11:11:21 America/Sao_Paulo] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/ecommerce/loja/painel/uploads/paginas/): failed to open dir: No such file or directory in /home/ecommerce/loja/painel/content/paginas_cadastro.php:139
+Stack trace:
+#0 /home/ecommerce/loja/painel/content/paginas_cadastro.php(139): DirectoryIterator->__construct('/home/ecommerce...')
+#1 /home/ecommerce/loja/painel/index.php(24): require('/home/ecommerce...')
+#2 {main}
+  thrown in /home/ecommerce/loja/painel/content/paginas_cadastro.php on line 139
+[17-Oct-2018 11:11:49 America/Sao_Paulo] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/ecommerce/loja/painel/uploads/paginas/): failed to open dir: No such file or directory in /home/ecommerce/loja/painel/content/paginas_cadastro.php:139
+Stack trace:
+#0 /home/ecommerce/loja/painel/content/paginas_cadastro.php(139): DirectoryIterator->__construct('/home/ecommerce...')
+#1 /home/ecommerce/loja/painel/index.php(24): require('/home/ecommerce...')
+#2 {main}
+  thrown in /home/ecommerce/loja/painel/content/paginas_cadastro.php on line 139
+[18-Oct-2018 08:52:35 America/Sao_Paulo] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ecommerce/loja/painel/content/clientes_edita.php on line 299
+[19-Oct-2018 12:22:10 America/Sao_Paulo] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ecommerce/loja/painel/content/clientes_edita.php on line 299
+[24-Oct-2018 11:05:06 America/Sao_Paulo] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ecommerce/loja/painel/content/clientes_edita.php on line 299
+[24-Oct-2018 12:28:57 America/Sao_Paulo] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ecommerce/loja/painel/content/clientes_edita.php on line 299
+[22-Oct-2020 23:54:40 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/imagens_produtos/): failed to open dir: No such file or directory' in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php:1004
+Stack trace:
+#0 /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php(1004): DirectoryIterator->__construct('/home3/wieder14...')
+#1 /home3/wieder14/loja.wiedercastro.com/painel/index.php(33): require('/home3/wieder14...')
+#2 {main}
+  thrown in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 1004
+[22-Oct-2020 23:54:42 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[23-Oct-2020 00:01:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/categorias_edita.php on line 188
+[23-Oct-2020 00:01:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/categorias_edita.php on line 188
+[23-Oct-2020 00:05:26 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/imagens_produtos/): failed to open dir: No such file or directory' in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_cadastro.php:681
+Stack trace:
+#0 /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_cadastro.php(681): DirectoryIterator->__construct('/home3/wieder14...')
+#1 /home3/wieder14/loja.wiedercastro.com/painel/index.php(33): require('/home3/wieder14...')
+#2 {main}
+  thrown in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_cadastro.php on line 681
+[23-Oct-2020 00:10:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/categorias_edita.php on line 188
+[23-Oct-2020 00:16:15 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/imagens_produtos/): failed to open dir: No such file or directory' in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php:1004
+Stack trace:
+#0 /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php(1004): DirectoryIterator->__construct('/home3/wieder14...')
+#1 /home3/wieder14/loja.wiedercastro.com/painel/index.php(33): require('/home3/wieder14...')
+#2 {main}
+  thrown in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 1004
+[23-Oct-2020 00:16:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[23-Oct-2020 00:16:30 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/imagens_produtos/): failed to open dir: No such file or directory' in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php:1004
+Stack trace:
+#0 /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php(1004): DirectoryIterator->__construct('/home3/wieder14...')
+#1 /home3/wieder14/loja.wiedercastro.com/painel/index.php(33): require('/home3/wieder14...')
+#2 {main}
+  thrown in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 1004
+[23-Oct-2020 00:16:31 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[23-Oct-2020 00:18:34 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/imagens_produtos/): failed to open dir: No such file or directory' in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php:1004
+Stack trace:
+#0 /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php(1004): DirectoryIterator->__construct('/home3/wieder14...')
+#1 /home3/wieder14/loja.wiedercastro.com/painel/index.php(33): require('/home3/wieder14...')
+#2 {main}
+  thrown in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 1004
+[23-Oct-2020 00:18:35 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[23-Oct-2020 00:20:49 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(/home3/wieder14/loja.wiedercastro.com/painel/uploads/loja/imagens_produtos/): failed to open dir: No such file or directory' in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php:1004
+Stack trace:
+#0 /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php(1004): DirectoryIterator->__construct('/home3/wieder14...')
+#1 /home3/wieder14/loja.wiedercastro.com/painel/index.php(33): require('/home3/wieder14...')
+#2 {main}
+  thrown in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 1004
+[23-Oct-2020 00:20:50 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[23-Oct-2020 08:20:48 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[24-Oct-2020 13:23:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[02-Dec-2020 14:52:42 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/loja.wiedercastro.com/painel/content/itens_edita.php on line 95
+[02-Dec-2020 14:52:42 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/loja.wiedercastro.com/painel/content/itens_edita.php on line 116
+[04-Dec-2020 15:02:43 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wwvcar_new_vcardapio'@'localhost' (using password: YES) in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[04-Dec-2020 15:02:43 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'wwvcar_new_vcardapio'@'localhost' (using password: YES) in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[04-Dec-2020 15:02:43 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 105
+[07-Dec-2020 17:22:07 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wwvcar_new_vcardapio'@'localhost' (using password: YES) in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[07-Dec-2020 17:22:07 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'wwvcar_new_vcardapio'@'localhost' (using password: YES) in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[07-Dec-2020 17:22:07 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/loja.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 105
+[07-Dec-2020 17:22:16 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wwvcar_new_vcardapio'@'localhost' (using password: YES) in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 28
+[07-Dec-2020 17:22:16 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'wwvcar_new_vcardapio'@'localhost' (using password: YES) in /home3/wieder14/loja.wiedercastro.com/painel/config/dataBase.php on line 51
+[09-Dec-2020 20:33:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/categorias_edita.php on line 188
+[09-Dec-2020 20:33:55 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/categorias_edita.php on line 188
+[14-Dec-2020 14:32:50 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[14-Dec-2020 15:35:42 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[18-Dec-2020 11:02:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[18-Dec-2020 11:02:51 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[18-Dec-2020 11:03:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[28-Dec-2020 15:35:49 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[28-Dec-2020 15:36:01 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[28-Dec-2020 15:36:10 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[14-Jan-2021 15:59:39 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 13
+[14-Jan-2021 15:59:39 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 17
+[19-Jan-2021 16:13:58 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 13
+[19-Jan-2021 16:13:58 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 17
+[19-Jan-2021 16:14:07 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 13
+[19-Jan-2021 16:14:07 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 17
+[19-Jan-2021 16:16:30 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 13
+[19-Jan-2021 16:16:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/loja.wiedercastro.com/painel/content/pedidos_visualiza.php on line 17
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Warning:  fopen(http://home.vcardapio.com/painel/private/users/home.txt): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 29
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 30
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 33
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 36
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 51
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 52
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 53
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 28
+[05-Feb-2021 15:12:28 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 51
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Warning:  fopen(http://home.vcardapio.com/painel/private/users/home.txt): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 29
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 30
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 33
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 36
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 51
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 2 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 52
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 53
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 28
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 51
+[05-Feb-2021 15:12:51 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/class/models/design_restaurantes_model.php on line 105
+[05-Feb-2021 20:54:03 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/pedidos_visualiza.php on line 13
+[05-Feb-2021 20:54:03 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/pedidos_visualiza.php on line 17
+[05-Feb-2021 20:56:44 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:03:54 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/pedidos_visualiza.php on line 13
+[05-Feb-2021 21:03:54 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/pedidos_visualiza.php on line 17
+[05-Feb-2021 21:10:25 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:10:36 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:11:35 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:14:41 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:19:19 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:19:55 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:20:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/produtos_edita.php on line 445
+[05-Feb-2021 21:22:14 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/itens_edita.php on line 95
+[05-Feb-2021 21:22:14 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/itens_edita.php on line 116
+[10-Mar-2021 16:42:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/adicionais_edita.php on line 46
+[10-Mar-2021 16:42:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/adicionais_edita.php on line 49
+[10-Mar-2021 16:42:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/adicionais_edita.php on line 57
+[20-Mar-2021 11:11:13 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 20
+[20-Mar-2021 11:11:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php:132
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(33): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 132
+[20-Mar-2021 11:11:38 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 20
+[20-Mar-2021 11:11:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php:132
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(33): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 132
+[20-Mar-2021 11:14:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 20
+[20-Mar-2021 11:14:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php:133
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(33): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 133
+[20-Mar-2021 11:14:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 20
+[20-Mar-2021 11:14:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php:133
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(33): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/paginas_edita.php on line 133
+[23-Mar-2021 12:49:05 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/setup_pagamentos.php on line 48
+[19-Apr-2021 09:32:10 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wieder14'@'localhost' (using password: YES) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Apr-2021 09:32:10 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'wieder14'@'localhost' (using password: YES) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Apr-2021 09:32:10 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 103
+[19-Apr-2021 09:32:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php:104
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(2): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 104
+[19-Apr-2021 09:45:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Model\ControleExibir' not found in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php:4
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/home.php(5): require()
+#1 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(33): require('/home3/wieder14...')
+#2 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 4
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 68
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 75
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 83
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 107
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 108
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 109
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 124
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 260
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 261
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 262
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 263
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 264
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 265
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 266
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 267
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 268
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 269
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 270
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 271
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 272
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 273
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 274
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 275
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 276
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 277
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 278
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 279
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 280
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 281
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 282
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 283
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 284
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 285
+[19-Apr-2021 10:00:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 286
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 68
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 75
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 83
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 107
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 108
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 109
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 124
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 260
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 261
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 262
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 263
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 264
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 265
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 266
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 267
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 268
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 269
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 270
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 271
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 272
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 273
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 274
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 275
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 276
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 277
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 278
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 279
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 280
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 281
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 282
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 283
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 284
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 285
+[19-Apr-2021 10:00:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 286
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 124
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: cidade in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 132
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: ultimo_pedido in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 134
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 124
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: cidade in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 132
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: ultimo_pedido in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 134
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:32:50 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: cidade in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 132
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: ultimo_pedido in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 134
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: cidade in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 132
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: ultimo_pedido in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 134
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: ultimo_pedido in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 134
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: ultimo_pedido in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 134
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 146
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 148
+[19-Apr-2021 10:36:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 151
+[19-Apr-2021 10:37:00 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:37:00 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:37:00 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:37:00 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 145
+[19-Apr-2021 10:39:28 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:39:28 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pessoa in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 68
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pessoa in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 75
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pessoa in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 83
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: sexo in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 107
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: sexo in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 108
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: sexo in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 109
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: tipo_pessoa in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 124
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 260
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 261
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 262
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 263
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 264
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 265
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 266
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 267
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 268
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 269
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 270
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 271
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 272
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 273
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 274
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 275
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 276
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 277
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 278
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 279
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 280
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 281
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 282
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 283
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 284
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 285
+[19-Apr-2021 10:39:39 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 286
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 68
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 75
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 83
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 107
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 108
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 109
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 124
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 260
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 261
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 262
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 263
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 264
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 265
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 266
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 267
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 268
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 269
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 270
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 271
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 272
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 273
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 274
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 275
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 276
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 277
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 278
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 279
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 280
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 281
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 282
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 283
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 284
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 285
+[19-Apr-2021 10:39:43 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 286
+[19-Apr-2021 10:39:49 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:39:49 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:42:54 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:42:54 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:43:03 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:43:04 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:43:24 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:43:28 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:43:28 America/Sao_Paulo] PHP Notice:  Undefined index: url in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes.php on line 126
+[19-Apr-2021 10:45:38 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:45:44 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:50:50 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:53:20 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:54:20 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:55:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:55:55 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:56:23 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 10:58:17 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 11:01:22 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 11:15:45 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 12:38:50 America/Fortaleza] PHP Warning:  fopen(/home3/wieder14/cozinhafit.wiedercastro.com/painel/private/users/teste.txt): failed to open stream: No such file or directory in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 70
+[19-Apr-2021 12:38:50 America/Fortaleza] PHP Warning:  fgets() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 72
+[19-Apr-2021 12:38:50 America/Fortaleza] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 75
+[19-Apr-2021 12:38:50 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Apr-2021 12:38:50 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Apr-2021 12:38:50 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 103
+[19-Apr-2021 12:38:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php:104
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(2): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 104
+[19-Apr-2021 12:40:04 America/Fortaleza] PHP Warning:  fopen(/home3/wieder14/cozinhafit.wiedercastro.com/painel/private/users/cozinhafit.txt): failed to open stream: No such file or directory in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 70
+[19-Apr-2021 12:40:04 America/Fortaleza] PHP Warning:  fgets() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 72
+[19-Apr-2021 12:40:04 America/Fortaleza] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 75
+[19-Apr-2021 12:40:04 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Apr-2021 12:40:04 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Apr-2021 12:40:04 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 103
+[19-Apr-2021 12:40:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php:104
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(2): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 104
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  fopen(/home3/wieder14/cozinhafit.wiedercastro.com/painel/private/users/cozinhafit.txt): failed to open stream: No such file or directory in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 70
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  fgets() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 72
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 75
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Apr-2021 12:40:36 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Apr-2021 12:40:36 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 103
+[19-Apr-2021 12:40:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php:104
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(2): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 104
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  fopen(/home3/wieder14/cozinhafit.wiedercastro.com/painel/private/users/cozinhafit.txt): failed to open stream: No such file or directory in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 70
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  fgets() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 72
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 75
+[19-Apr-2021 12:40:36 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 28
+[19-Apr-2021 12:40:36 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/dataBase.php on line 51
+[19-Apr-2021 12:40:36 America/Sao_Paulo] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 103
+[19-Apr-2021 12:40:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php:104
+Stack trace:
+#0 /home3/wieder14/cozinhafit.wiedercastro.com/painel/index.php(2): require()
+#1 {main}
+  thrown in /home3/wieder14/cozinhafit.wiedercastro.com/painel/config/start.php on line 104
+[19-Apr-2021 14:47:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:40 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:40 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:47:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:40 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:40 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:48:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:49:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:49:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:49:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:49:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 14:49:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?>' in /home3/wieder14/cozinhafit.wiedercastro.com/painel/layout/menu.php on line 54
+[19-Apr-2021 15:00:33 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/clientes_edita.php on line 17
+[19-Apr-2021 16:03:13 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/tarefas_edita.php on line 17
+[19-Apr-2021 16:03:37 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/usuarios_edita.php on line 68
+[19-Apr-2021 16:03:37 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/usuarios_edita.php on line 69
+[19-Apr-2021 16:03:37 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/usuarios_edita.php on line 70
+[19-Apr-2021 16:03:37 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/usuarios_edita.php on line 71
+[19-Apr-2021 16:03:37 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home3/wieder14/cozinhafit.wiedercastro.com/painel/content/usuarios_edita.php on line 72
